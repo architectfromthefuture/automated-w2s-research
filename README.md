@@ -72,6 +72,8 @@ python run.py --idea my_idea --seed 42
 
 Each idea's `run.py` receives a `RunConfig` and returns metrics. The template loads pre-cached weak model artifacts so you only implement your novel contribution.
 
+see our idea list in `Idea.md`
+
 
 ## Automated Researcher
 
